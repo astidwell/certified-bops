@@ -1,6 +1,6 @@
 # Light to Dark as Fuck — Two-Hour Drum & Bass Set
 
-**Runtime:** approximately 1:58:37 using the listed full-length versions  
+**Runtime:** approximately 1:58:21 using the listed full-length versions  
 **Arc:** liquid → deep rollers → atmospheric tech → Metalheadz pressure → techstep → neurofunk → darkstep  
 **Programming principle:** preserve long-form DnB phrasing and let the darkness increase gradually rather than jumping from liquid directly into punishment.
 
@@ -24,7 +24,7 @@
 | 14 | Ed Rush & Optical | Pacman (Ram Trilogy Remix) | 5:31 | 9 | 8 |
 | 15 | Konflict | Messiah | 6:14 | 9 | 9 |
 | 16 | Noisia & The Upbeats | Dead Limit | 6:00 | 10 | 9 |
-| 17 | Technical Itch | The Rukus | 6:55 | 10 | 10 |
+| 17 | Dom & Roland | Can't Punish Me | 6:39 | 10 | 10 |
 | 18 | Evol Intent | 7 Angels With 7 Plagues | 7:22 | 10 | 10 |
 
 ## Mix notes
@@ -33,6 +33,6 @@
 - **Tracks 6–9:** begin shortening the emotional breathing room while preserving rolling momentum.
 - **Tracks 10–12:** let intros and breakdowns build tension; this is the bridge into darkness.
 - **Tracks 13–16:** quicker handoffs and more aggressive phrase alignment.
-- **Tracks 17–18:** do not soften the landing. Let *The Rukus* strip away the remaining funk, then give *7 Angels With 7 Plagues* the full closing statement.
+- **Tracks 17–18:** do not soften the landing. Let *Can't Punish Me* strip away the remaining funk, then give *7 Angels With 7 Plagues* the full closing statement.
 
 Track duration can vary slightly by release, remaster, or streaming edition. The CSV is the machine-readable source for this set.
