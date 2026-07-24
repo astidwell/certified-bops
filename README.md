@@ -1,47 +1,49 @@
-# Certified Bops
+# Shared Music
 
-**Certified Bops** is Aaron and Mitch's deliberately curated, version-controlled master playlist.
+A collaborative, version-controlled music library for Aaron and Mitch.
 
-This repository exists to preserve a playlist we actually want to come back to for years—not to collect the most songs or chase streaming algorithms.
+This repository is where we curate playlists with a clear purpose, preserve their history, and document why the songs belong together. The goal is not to build the largest collection or chase streaming algorithms. It is to create playlists that feel intentional, tell a story, and remain worth returning to for years.
 
-## Purpose
+We are not collecting songs. We are collecting moments.
 
-Certified Bops is our **"all killer, no filler"** playlist.
+## Playlists
 
-Every song should earn its place by being:
+### [Certified Bops](data/)
 
-- Highly replayable
-- Instantly recognizable or instantly lovable
-- Fun, energetic, or otherwise impossible to skip
-- Worth hearing every time it comes on
+Our all-killer, no-filler playlist: highly replayable songs we rarely skip, sequenced for energy, variety, and fun.
 
-Popularity and critical acclaim are optional. Replay value is not.
+### [Mitch](Mitch/)
 
-## Curation Principles
+Calm, warm, comfortable listening for reading, relaxing, winding down, and sleep. The emphasis is on gentle ambient, piano, modern classical, and spacious instrumental music without wellness pseudoscience or unnecessary drama.
 
-- Songs should earn their place.
-- If we regularly skip a song, it probably doesn't belong.
-- Avoid adding tracks just to hit an arbitrary playlist size.
-- Preserve variety across artists, genres, and eras.
-- Sequence matters as much as song selection.
+### [Drum & Bass](sets/)
 
-## Source of Truth
+Sequenced drum-and-bass journeys built like DJ sets rather than loose track collections. The current set moves from liquid and atmospheric rollers into classic techstep, darkstep, and neurofunk pressure.
 
-`data/master.csv` is the canonical playlist database.
+## Shared Curation Principles
 
-Current columns:
+- Every playlist has a purpose.
+- Songs must earn their place; avoid filler.
+- Sequencing matters as much as song selection.
+- Preserve emotional pacing and natural changes in energy.
+- Avoid back-to-back tracks by the same lead artist unless the sequence deliberately calls for it.
+- Avoid clustering tracks from the same album unless creating an intentional album-like passage.
+- Surprise the listener occasionally without breaking the flow.
+- Popularity is never a substitute for replayability.
 
-- `Artist`
-- `Title`
-- `Energy` (reserved for future manual rating)
+## Repository Structure
 
-## Repository Rules
+- `data/` — Certified Bops playlist data and documentation
+- `Mitch/` — playlists curated around comfort, calm, and rest
+- `sets/` — sequenced Drum & Bass sets and listening notes
 
-1. Never treat a chat response as the master list.
-2. Every playlist edit updates `data/master.csv`.
-3. Exports are generated from the master file.
-4. Preserve Git history so additions, removals, and sequencing decisions remain traceable.
+CSV files are the practical source for playlist ordering and import. Markdown files explain each playlist's purpose, arc, and significant sequencing decisions.
 
-The goal isn't the biggest playlist.
+## Working Agreement
 
-It's the playlist we never get tired of.
+1. Update the relevant playlist file rather than treating a chat response as the master list.
+2. Preserve Git history so additions, cuts, and sequencing changes remain traceable.
+3. Move songs only when the change improves flow or clarifies the playlist's purpose.
+4. Document major sequencing decisions and meaningful changes.
+
+The best playlist is not the one with the most songs. It is the one we play from beginning to end.
